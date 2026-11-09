@@ -1,16 +1,22 @@
-## Hi there 👋
+# Bonjour, je suis Maroua 👋
 
-<!--
-**Maroua512/Maroua512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en informatique et développeuse de projets en **Python**, **Kotlin** et **Java**.
 
-Here are some ideas to get you started:
+## 🚀 Projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎬 [Movie App](https://github.com/Maroua512/movie_app) — application Android de découverte et de suivi de films.
+- 💰 [Python Expense Tracker](https://github.com/Maroua512/python-expense-tracker) — outil simple pour enregistrer les dépenses et suivre un budget.
+
+## 🛠️ Technologies
+
+`Python` · `Kotlin` · `Java` · `Android` · `Git` · `GitHub`
+
+## 📌 Objectifs
+
+- Construire des applications utiles et faciles à utiliser
+- Améliorer mes compétences en développement logiciel
+- Collaborer sur des projets open source
+
+## 📫 Contact
+
+Vous pouvez consulter mes projets et me contacter via [mon profil GitHub](https://github.com/Maroua512).
