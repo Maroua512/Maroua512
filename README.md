@@ -158,9 +158,9 @@
 ## 📬 Me contacter
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/VOTRE_LIEN_LINKEDIN">
-    <img src="https://www.linkedin.com/in/maroua-aguenarous-318913298/&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+ <a href="https://www.linkedin.com/in/maroua-aguenarous-318913298/">
+  <img src="https://img.shields.io/badge/LinkedIn-Maroua%20Aguenarous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
   <a href="mailto:marwamira299@gmail.com">
     <img src="https://img.shields.io/badge/Email-marwamira299%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
