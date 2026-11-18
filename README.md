@@ -30,7 +30,7 @@
 | ☁️ **Ordonnanceur Fog / Cloud** | Allocation dynamique de tâches selon CPU, mémoire, bande passante et délais ; priorisation avec stratégie anti-famine | Python, Matplotlib |
 | 🎮 **Théorie des jeux & routage** | Jeu à N joueurs appliqué au routage réseau | Python |
 | 🚗 **Plateforme de dépannage routier** (PFE Licence) | Mise en relation géolocalisée clients/prestataires, chat, panel d'administration | Kotlin (MVVM), Django, Firebase, Retrofit |
-| 📅 **Application de planification de réunions** | Réunions, rappels et suivi des tâches étudiants/enseignants | Kotlin |
+| 📅 **Application de planification de réunions** | Réunions, rappels et suivi des tâches étudiants/enseignants | Kotlin,Django,Retrofit,Firebase |
 
 ---
 
