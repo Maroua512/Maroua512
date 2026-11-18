@@ -155,25 +155,11 @@
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Quest-Generative%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Generative AI Practitioner"/>
 </p>
 
----
-
-## 📊 Statistiques GitHub
-
-<!-- Remplacez VOTRE_PSEUDO par votre nom d'utilisateur GitHub, puis supprimez les lignes de commentaire <!-- et --> autour du bloc -->
-<!--
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&hide_border=true&count_private=true" alt="Statistiques GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO&layout=compact&hide_border=true" alt="Langages les plus utilisés"/>
-</p>
--->
-
----
-
 ## 📬 Me contacter
 
 <p align="center">
   <a href="https://www.linkedin.com/in/VOTRE_LIEN_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Maroua%20Aguenarous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://www.linkedin.com/in/maroua-aguenarous-318913298/&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:marwamira299@gmail.com">
     <img src="https://img.shields.io/badge/Email-marwamira299%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
