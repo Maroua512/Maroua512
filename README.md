@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Alger-Algérie-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation"/>
   <img src="https://img.shields.io/badge/Disponible-Emploi%20IT-2EA44F?style=for-the-badge" alt="Disponibilité"/>
-  <img src="https://img.shields.io/badge/Langues-AR%20%7C%20FR%20%7C%20EN-555?style=for-the-badge" alt="Langues"/>
 </p>
 
 ---
