@@ -40,7 +40,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,kotlin" alt="Langages"/>
-  <img src="https://img.shields.io/badge/SQL%20%2F%20PL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL / PL-SQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL"/>
   <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge" alt="XML"/>
 </p>
 
